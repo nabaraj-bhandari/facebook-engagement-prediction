@@ -1,0 +1,31 @@
+2026-03-04 21:56:50,076  INFO     Selected districts: ['rukum_east']  (11 candidates)
+2026-03-04 21:56:50,076  INFO     Parallelism : 10 candidates at a time
+2026-03-04 21:56:50,076  INFO     Output dir  : /home/nabaraj/projects/facebook-engagement-prediction/election_data
+2026-03-04 21:56:50,076  INFO     Log file    : /home/nabaraj/projects/facebook-engagement-prediction/logs/scrape_20260304_215100.log
+2026-03-04 21:56:50,077  INFO     Resume      : 0 candidates already in output
+2026-03-04 21:56:50,368  INFO     ----------------------------------------------------------
+2026-03-04 21:56:50,368  INFO     CONST [1/1] rukum_east_1  (11 candidates, 2 batches)
+2026-03-04 21:56:50,368  INFO       Batch 1/2
+2026-03-04 21:56:51,287  INFO     FETCH [rukum_east_1] Sandip Pun
+2026-03-04 21:56:51,696  INFO     FETCH [rukum_east_1] Pushpa Kamal Dahal Prachanda
+2026-03-04 21:56:52,204  INFO     FETCH [rukum_east_1] Kusum Devi Thapa
+2026-03-04 21:56:52,207  INFO     FETCH [rukum_east_1] Roshan Shah
+2026-03-04 21:56:52,411  INFO     FETCH [rukum_east_1] Lilamani Gautam
+2026-03-04 21:56:52,683  INFO     FETCH [rukum_east_1] Chandra Prasad Shahi
+2026-03-04 21:56:53,092  INFO     FETCH [rukum_east_1] Dharm Kumar Budha
+2026-03-04 21:56:53,319  INFO     FETCH [rukum_east_1] Jyoti Roka Magar
+2026-03-04 21:56:53,553  INFO     FETCH [rukum_east_1] Juddh Bahadur Budha Magar
+2026-03-04 21:56:53,709  INFO     FETCH [rukum_east_1] Lakhan Kumar Thapa
+2026-03-04 21:57:14,223  WARNING  NONE  [rukum_east_1] Kusum Devi Thapa - no tweets found
+2026-03-04 21:57:14,393  WARNING  NONE  [rukum_east_1] Roshan Shah - no tweets found
+2026-03-04 21:57:14,786  WARNING  NONE  [rukum_east_1] Pushpa Kamal Dahal Prachanda - no tweets found
+2026-03-04 21:57:15,147  WARNING  NONE  [rukum_east_1] Lakhan Kumar Thapa - no tweets found
+2026-03-04 21:57:15,437  WARNING  NONE  [rukum_east_1] Juddh Bahadur Budha Magar - no tweets found
+2026-03-04 21:57:15,750  WARNING  NONE  [rukum_east_1] Sandip Pun - no tweets found
+2026-03-04 21:57:15,886  WARNING  NONE  [rukum_east_1] Lilamani Gautam - no tweets found
+2026-03-04 21:57:15,902  WARNING  NONE  [rukum_east_1] Jyoti Roka Magar - no tweets found
+2026-03-04 21:57:16,335  WARNING  NONE  [rukum_east_1] Chandra Prasad Shahi - no tweets found
+2026-03-04 21:57:17,091  WARNING  NONE  [rukum_east_1] Dharm Kumar Budha - no tweets found
+2026-03-04 21:57:20,192  INFO       Inter-batch cooldown 13s
+2026-03-04 21:57:33,196  INFO       Batch 2/2
+2026-03-04 21:57:35,126  INFO     FETCH [rukum_east_1] Sir Bahadur Budha

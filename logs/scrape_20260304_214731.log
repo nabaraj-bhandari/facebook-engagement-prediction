@@ -1,0 +1,43 @@
+2026-03-04 21:47:42,163  INFO     Selected ALL 25 districts
+2026-03-04 21:47:42,163  INFO     Parallelism : 10 candidates at a time
+2026-03-04 21:47:42,164  INFO     Output dir  : /home/nabaraj/projects/facebook-engagement-prediction/election_data
+2026-03-04 21:47:42,164  INFO     Log file    : /home/nabaraj/projects/facebook-engagement-prediction/logs/scrape_20260304_214731.log
+2026-03-04 21:47:42,164  INFO     Resume      : 0 candidates already in output
+2026-03-04 21:47:42,470  INFO     ----------------------------------------------------------
+2026-03-04 21:47:42,470  INFO     CONST [1/40] baglung_1  (11 candidates, 2 batches)
+2026-03-04 21:47:42,470  INFO       Batch 1/2
+2026-03-04 21:47:43,322  INFO     FETCH [baglung_1] Bhakta Bahadur B.K.
+2026-03-04 21:47:43,766  INFO     FETCH [baglung_1] Krishna Prasad Sharma Adhikari
+2026-03-04 21:47:43,891  INFO     FETCH [baglung_1] Lal Bahadur Gharti
+2026-03-04 21:47:44,072  INFO     FETCH [baglung_1] Sahavir Thapa
+2026-03-04 21:47:44,271  INFO     FETCH [baglung_1] Kalyan Acharya
+2026-03-04 21:47:44,711  INFO     FETCH [baglung_1] Tek Bahadur K.C.
+2026-03-04 21:47:45,046  INFO     FETCH [baglung_1] Guma Kumari Budha Rana Magar
+2026-03-04 21:47:45,047  INFO     FETCH [baglung_1] Sushil Khadka
+2026-03-04 21:47:45,283  INFO     FETCH [baglung_1] Bhim Bahadur Shris Rana
+2026-03-04 21:47:45,920  INFO     FETCH [baglung_1] Chitra Prasad Sapkota
+2026-03-04 21:47:58,682  WARNING  WALL  [baglung_1] Chitra Prasad Sapkota - pausing 45s and retrying
+2026-03-04 21:47:59,030  WARNING  WALL  [baglung_1] Guma Kumari Budha Rana Magar - pausing 45s and retrying
+2026-03-04 21:47:59,073  WARNING  WALL  [baglung_1] Sushil Khadka - pausing 45s and retrying
+2026-03-04 21:48:06,039  WARNING  NONE  [baglung_1] Krishna Prasad Sharma Adhikari - no tweets found
+2026-03-04 21:48:07,816  WARNING  NONE  [baglung_1] Sahavir Thapa - no tweets found
+2026-03-04 21:48:07,837  WARNING  NONE  [baglung_1] Bhakta Bahadur B.K. - no tweets found
+2026-03-04 21:48:07,842  WARNING  NONE  [baglung_1] Lal Bahadur Gharti - no tweets found
+2026-03-04 21:48:08,636  WARNING  NONE  [baglung_1] Kalyan Acharya - no tweets found
+2026-03-04 21:48:09,245  WARNING  NONE  [baglung_1] Bhim Bahadur Shris Rana - no tweets found
+2026-03-04 21:48:11,270  WARNING  NONE  [baglung_1] Tek Bahadur K.C. - no tweets found
+2026-03-04 21:49:08,501  WARNING  NONE  [baglung_1] Chitra Prasad Sapkota - no tweets found
+2026-03-04 21:49:08,622  WARNING  NONE  [baglung_1] Guma Kumari Budha Rana Magar - no tweets found
+2026-03-04 21:49:09,784  WARNING  NONE  [baglung_1] Sushil Khadka - no tweets found
+2026-03-04 21:49:14,387  INFO       Inter-batch cooldown 9s
+2026-03-04 21:49:23,264  INFO       Batch 2/2
+2026-03-04 21:49:25,855  INFO     FETCH [baglung_1] Hira Bahadur Khatri
+2026-03-04 21:49:37,762  WARNING  WALL  [baglung_1] Hira Bahadur Khatri - pausing 45s and retrying
+2026-03-04 21:50:47,246  WARNING  NONE  [baglung_1] Hira Bahadur Khatri - no tweets found
+2026-03-04 21:50:51,497  INFO     ==========================================================
+2026-03-04 21:50:51,497  INFO     Run complete. Tweet counts per file:
+2026-03-04 21:50:51,497  INFO     Total tweets collected: 0
+2026-03-04 21:50:51,497  INFO     ==========================================================
+2026-03-04 21:50:51,514  ERROR    Future exception was never retrieved
+future: <Future finished exception=Exception('Connection closed while reading from the driver')>
+Exception: Connection closed while reading from the driver
